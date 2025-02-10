@@ -27,7 +27,7 @@
   NPM Inquisitor package,
 
   ## Tests 
-  Run NPM START, crate a vehicle, then run throuh the differnt options. If a motorbike, you should be able to do a wheelie but not tow, if a truck you should be able to tow and  not  wheelie  and as a car you should not be able  to tow or wheelie. Link to walk-throgh :https://docs.google.com/document/d/1mK5aYTYGQMGxMx0Dk6uBuLZ9m7tX9TQtBuvryaTiu_c/edit?usp=sharing
+  Run NPM START, crate a vehicle, then run throuh the differnt options. If a motorbike, you should be able to do a wheelie but not tow, if a truck you should be able to tow and  not  wheelie  and as a car you should not be able  to tow or wheelie. Link to walk-throgh :[https://docs.google.com/document/d/1mK5aYTYGQMGxMx0Dk6uBuLZ9m7tX9TQtBuvryaTiu_c/edit?usp=sharing](https://drive.google.com/file/d/1RLRpp05o3yYbtjSzChRX4kULKNPweB6J/view?usp=drive_link)
 
   ## License
   
