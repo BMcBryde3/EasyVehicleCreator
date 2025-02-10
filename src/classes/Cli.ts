@@ -192,6 +192,10 @@ class Cli {
           parseInt(answers.towingCapacity)
         );
 
+        this.vehicles.push(truck);
+        this.selectedVehicleVin = truck.vin;
+        this.performActions();
+
       });
   }
 
@@ -268,6 +272,10 @@ class Cli {
             new Wheel(parseInt(answers.rearWheelDiameter), answers.rearWheelBrand),
           ]
         );
+
+        this.vehicles.push(motorbike);
+        this.selectedVehicleVin = motorbike.vin;
+        this.performActions();
       });
   }
 
